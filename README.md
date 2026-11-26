@@ -56,13 +56,14 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 </td>
 </tr>
 <tr>
-<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/nova-medical-ai"><img src="assets/nova.svg" width="180" alt="N.O.V.A. illustration"></a></td>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/nova"><img src="assets/nova.svg" width="180" alt="N.O.V.A. illustration"></a></td>
 <td valign="top">
 <h3>N.O.V.A.</h3>
 <p><sub>Medical AI agent · 2026</sub></p>
-<p>An LLM-based medical AI agent exploring clinical reasoning.</p>
+<p>An LLM-based simulated doctor agent for Korean clinical interactions and SOAP records. Includes guideline retrieval tools; RAG integration is not active in v32.</p>
 <p><sub>LLMs · AI Agents · Prompt Engineering</sub></p>
-<p><a href="https://github.com/jaehyeongahn01/nova-medical-ai">Repository</a></p>
+<p><a href="https://github.com/jaehyeongahn01/nova">Repository</a></p>
+<p><sub>Final results and evaluations will be updated once announced.</sub></p>
 </td>
 </tr>
 <tr>
@@ -92,7 +93,8 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 <p><sub>Interactive software · 2026</sub></p>
 <p>Stickman Sword Duel — draw sword attacks and move your character to dodge in a turn-based game.</p>
 <p><sub>TypeScript · Vite · Canvas · Gameplay Design</sub></p>
-<p><a href="https://github.com/jaehyeongahn01/game-development">Repository</a></p>
+<p><a href="https://game.saaskr.com/games/%EC%8D%A8%EB%8A%94-%EB%86%88-%ED%94%BC%ED%95%98%EB%8A%94-%EB%86%88">▶ Play now</a> · <a href="https://github.com/jaehyeongahn01/game-development">Repository</a></p>
+<p><sub>Final results and evaluations will be updated once announced.</sub></p>
 </td>
 </tr>
 </table>
