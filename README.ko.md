@@ -150,9 +150,16 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 <img src="assets/badge-vite.svg" height="36" alt="Vite">
 </p>
 
-<p><b>클라우드 및 도구</b></p>
+<p><b>AWS</b></p>
 <p>
-<img src="assets/badge-aws.svg" height="36" alt="AWS">
+<img src="assets/badge-sagemaker.svg" height="36" alt="Amazon SageMaker" title="SageMaker">
+<img src="assets/badge-ec2.svg" height="36" alt="Amazon EC2" title="EC2">
+<img src="assets/badge-s3.svg" height="36" alt="Amazon S3" title="S3">
+<img src="assets/badge-iam.svg" height="36" alt="Amazon IAM" title="IAM">
+</p>
+
+<p><b>Development Tools</b></p>
+<p>
 <img src="assets/badge-git.svg" height="36" alt="Git">
 <img src="assets/badge-github.svg" height="36" alt="GitHub">
 </p>
