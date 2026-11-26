@@ -6,123 +6,167 @@
 
 **Biotechnology · Artificial Intelligence · Software Development**
 
-From biological questions to intelligent, interactive software.
-
-[Projects](#selected-projects) · [Background](#education--experience) · [Tech Stack](#tech-stack) · [Contact](#contact)
-
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I graduated from Ghent University with a Bachelor's degree in Molecular Biotechnology. I am interested in using artificial intelligence and software to solve real-world problems, drawing on my background in biotechnology.
+**Exploring the intersection of biotechnology, AI, and software.**
 
-My project experience spans 3D reconstruction, medical image analysis, LLM-based agents, automotive applications, and interactive game development. I enjoy connecting ideas across disciplines and turning them into working experiments and applications.
+I am a Molecular Biotechnology graduate from Ghent University, with experience in medical AI, 3D reconstruction, and interactive application development. I enjoy connecting ideas across disciplines and turning them into working experiments and software.
 
-**Interests:** Healthcare AI · Bioinformatics · Digital Biotechnology · Machine Learning & Deep Learning · AI-driven Software Development
+🎓 **Education:** Ghent University — Molecular Biotechnology
 
-## Selected Projects
+🔬 **Interests:** Healthcare AI · Bioinformatics · Digital Biotechnology
 
-### 01 · 3D Liver Reconstruction
-**Bachelor's research · 2026**
+---
 
-Investigating meta-learning for faster patient-specific 3D liver reconstruction using implicit neural representations. The study compares ReLU and SIREN architectures and random versus MAML-based initialization; application to partial intraoperative data remains a direction for further work.
+## 🚀 Project Gallery
 
-`INR` `MAML` `SIREN` `3D Reconstruction`
+<table>
+<tr>
+<td width="190" align="center" valign="middle"><a href="https://github.com/shin-shuru/BSc_Project_2026"><img src="assets/liver.svg" width="180" alt="3D Liver Reconstruction illustration"></a></td>
+<td valign="top">
+<h3>3D Liver Reconstruction</h3>
+<p><sub>Bachelor&#x27;s research · 2026</sub></p>
+<p>Meta-learning for patient-specific 3D liver reconstruction with implicit neural representations.</p>
+<p><sub>INR · MAML · SIREN · 3D Reconstruction</sub></p>
+<p><b>My contribution:</b> Collaborated in a three-person team on meta-learning-based 3D liver reconstruction, sharing responsibility across the research process.</p>
+<p><a href="https://github.com/shin-shuru/BSc_Project_2026">Repository</a> · <a href="projects/liver-reconstruction.md">My Contributions</a></p>
+</td>
+</tr>
+<tr>
+<td width="190" align="center" valign="middle"><a href="projects/rsna-knee.md"><img src="assets/rsna.svg" width="180" alt="RSNA Knee Abnormality Detection illustration"></a></td>
+<td valign="top">
+<h3>RSNA Knee Abnormality Detection</h3>
+<p><sub>Medical imaging · Kaggle competition · 2026</sub></p>
+<p>Multi-label knee MRI analysis through deep learning model development and experimentation.</p>
+<p><sub>Medical Imaging · Deep Learning · Multi-label Classification</sub></p>
+<p><b>My contribution:</b> Took primary responsibility for much of the model development and experimentation, adapting deep learning approaches for multi-label knee MRI analysis.</p>
+<p>Private source · <a href="projects/rsna-knee.md">My Contributions</a></p>
+</td>
+</tr>
+<tr>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/nova-medical-ai"><img src="assets/nova.svg" width="180" alt="N.O.V.A. illustration"></a></td>
+<td valign="top">
+<h3>N.O.V.A.</h3>
+<p><sub>Medical AI agent · 2026</sub></p>
+<p>An LLM-based medical AI agent exploring clinical reasoning.</p>
+<p><sub>LLMs · AI Agents · Prompt Engineering</sub></p>
+<p><b>My contribution:</b> Co-designed prompts with teammates for an LLM-based medical AI agent.</p>
+<p><a href="https://github.com/jaehyeongahn01/nova-medical-ai">Repository</a> · <a href="projects/nova.md">My Contributions</a></p>
+</td>
+</tr>
+<tr>
+<td width="190" align="center" valign="middle"><a href="https://github.com/ryu-zz/pleos-yeonjeossi"><img src="https://raw.githubusercontent.com/ryu-zz/pleos-yeonjeossi/main/docs/screenshots/01-start.png" width="180" alt="Hyundai Pleos — 연저씨 screenshot"></a></td>
+<td valign="top">
+<h3>Hyundai Pleos — 연저씨</h3>
+<p><sub>Automotive application · 2026</sub></p>
+<p>A beginner-driver coaching app with vehicle-signal quests and progress tracking.</p>
+<p><sub>Kotlin · Android · Pleos Vehicle SDK · Gamification</sub></p>
+<p><b>My contribution:</b> Contributed to product ideation and interface design, and implemented Pleos SDK integrations for the driving-practice application.</p>
+<p><a href="https://github.com/ryu-zz/pleos-yeonjeossi">Repository</a> · <a href="projects/yeonjeossi.md">My Contributions</a></p>
+</td>
+</tr>
+<tr>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/pleos-emergency"><img src="https://raw.githubusercontent.com/jaehyeongahn01/pleos-emergency/main/docs/images/overlay_dot.png" width="180" alt="Hyundai Pleos — Emergency screenshot"></a></td>
+<td valign="top">
+<h3>Hyundai Pleos — Emergency</h3>
+<p><sub>Automotive safety prototype · 2026</sub></p>
+<p>A discreet emergency-input prototype for taxi drivers. Message delivery and live-vehicle validation remain pending.</p>
+<p><sub>Kotlin · Android · Input Pattern Detection · Automotive UX</sub></p>
+<p><b>My contribution:</b> Originated the core concept and handled the overall application implementation, turning the idea into a working automotive safety prototype.</p>
+<p><a href="https://github.com/jaehyeongahn01/pleos-emergency">Repository</a> · <a href="projects/emergency.md">My Contributions</a></p>
+</td>
+</tr>
+<tr>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/game-development"><img src="https://raw.githubusercontent.com/jaehyeongahn01/game-development/main/stickman-sword-duel/thumbnail.png" width="180" alt="Game Development screenshot"></a></td>
+<td valign="top">
+<h3>Game Development</h3>
+<p><sub>Interactive software · 2026</sub></p>
+<p>Stickman Sword Duel — draw sword attacks and move your character to dodge in a turn-based game.</p>
+<p><sub>TypeScript · Vite · Canvas · Gameplay Design</sub></p>
+<p><b>My contribution:</b> Independently designed and developed the game, owning the project from concept and gameplay design through implementation.</p>
+<p><a href="https://github.com/jaehyeongahn01/game-development">Repository</a> · <a href="projects/games.md">My Contributions</a></p>
+</td>
+</tr>
+</table>
 
-**My contribution:** Collaborated in a three-person team on meta-learning-based 3D liver reconstruction, sharing responsibility across the research process.
+<sub>The first three thumbnails are topic illustrations; the remaining images show actual projects.</sub>
 
-[Research repository](https://github.com/shin-shuru/BSc_Project_2026) · [My Contributions](projects/liver-reconstruction.md)
+---
 
-### 02 · RSNA Knee Abnormality Detection
-**Medical imaging · Kaggle competition · 2026**
+## 💡 Activities
 
-Deep learning-based knee abnormality detection using MRI data, with a focus on medical image processing, multi-label classification, and model evaluation.
+<details open>
+<summary><b>🏁 Competitions & Team Projects</b></summary>
 
-`Medical Imaging` `Deep Learning` `Multi-label Classification`
+- RSNA Knee Abnormality Detection
+- N.O.V.A. Medical AI Competition
+- Hyundai Pleos Connect App Development
 
-**My contribution:** Took primary responsibility for much of the model development and experimentation, adapting deep learning approaches for multi-label knee MRI analysis.
+</details>
 
-**Source code: private repository.** [Project & My Contributions](projects/rsna-knee.md)
+<details open>
+<summary><b>🎮 Independent Development</b></summary>
 
-### 03 · N.O.V.A.
-**Medical AI agent · 2026**
+- Stickman Sword Duel
+- Interactive game design & development
 
-An LLM-based medical AI agent project exploring clinical reasoning and agent development.
+</details>
 
-`LLMs` `AI Agents` `Prompt Engineering`
+---
 
-**My contribution:** Co-designed prompts with teammates for an LLM-based medical AI agent.
+## 🛠️ Tech Stack
 
-[Project overview](https://github.com/jaehyeongahn01/nova-medical-ai) · [My Contributions](projects/nova.md)
+<div align="center">
 
-### 04 · Hyundai Pleos — 연저씨
-**Automotive application · 2026**
+<p><b>Languages</b></p>
+<p>
+<img src="assets/badge-python.svg" height="36" alt="Python">
+<img src="assets/badge-kotlin.svg" height="36" alt="Kotlin">
+<img src="assets/badge-typescript.svg" height="36" alt="TypeScript">
+</p>
 
-A driving practice application for beginner drivers, combining vehicle-signal-based quests, navigation and voice interactions, and progress tracking.
+<p><b>AI & Data Science</b></p>
+<p>
+<img src="assets/badge-pytorch.svg" height="36" alt="PyTorch">
+<img src="assets/badge-numpy.svg" height="36" alt="NumPy">
+<img src="assets/badge-pandas.svg" height="36" alt="Pandas">
+</p>
 
-<img src="https://raw.githubusercontent.com/ryu-zz/pleos-yeonjeossi/main/docs/screenshots/01-start.png" width="720" alt="연저씨 application start screen">
+<p><b>Application Development</b></p>
+<p>
+<img src="assets/badge-android.svg" height="36" alt="Android">
+<img src="assets/badge-android-studio.svg" height="36" alt="Android Studio">
+<img src="assets/badge-gradle.svg" height="36" alt="Gradle">
+<img src="assets/badge-vite.svg" height="36" alt="Vite">
+</p>
 
-`Kotlin` `Android` `Pleos Vehicle SDK` `Gamification`
+<p><b>Cloud & Tools</b></p>
+<p>
+<img src="assets/badge-aws.svg" height="36" alt="AWS">
+<img src="assets/badge-git.svg" height="36" alt="Git">
+<img src="assets/badge-github.svg" height="36" alt="GitHub">
+</p>
+</div>
 
-**My contribution:** Contributed to product ideation and interface design, and implemented Pleos SDK integrations for the driving-practice application.
+---
 
-[Team repository & demo](https://github.com/ryu-zz/pleos-yeonjeossi) · [My Contributions](projects/yeonjeossi.md)
-
-### 05 · Hyundai Pleos — Emergency
-**Automotive safety prototype · 2026**
-
-A discreet emergency-assistance prototype for taxi drivers. It detects a four-press MUTE pattern, shows a subtle indicator, and generates a configured report message. Detection is emulator-tested; actual message delivery and live-vehicle validation remain pending.
-
-<img src="https://raw.githubusercontent.com/jaehyeongahn01/pleos-emergency/main/docs/images/overlay_dot.png" width="720" alt="Emergency prototype indicator in the Pleos emulator">
-
-`Kotlin` `Android` `Input Pattern Detection` `Automotive UX`
-
-**My contribution:** Originated the core concept and handled the overall application implementation, turning the idea into a working automotive safety prototype.
-
-[Repository & demo](https://github.com/jaehyeongahn01/pleos-emergency) · [My Contributions](projects/emergency.md)
-
-### 06 · Game Development
-**Interactive software · 2026**
-
-**Stickman Sword Duel (써는 놈 피하는 놈)** — a turn-based sword-fighting game where players draw sword attacks with the mouse and move their character to dodge.
-
-`TypeScript` `Vite` `Canvas` `Gameplay Design`
-
-**My contribution:** Independently designed and developed the game, owning the project from concept and gameplay design through implementation.
-
-[Project collection](https://github.com/jaehyeongahn01/game-development) · [My Contributions](projects/games.md)
-
-## Education & Experience
+## 🎓 Education & Training
 
 | Period | Institution / Experience | Focus |
 | :--- | :--- | :--- |
 | Graduated Aug 2026 | Ghent University Global Campus | B.Sc. in Molecular Biotechnology |
 | 2026 | Healthcare AI Training | AI & Software Development |
 
-## Competitions & Activities
+---
 
-| Year | Activity | Area |
-| :--- | :--- | :--- |
-| 2026 | RSNA Knee Abnormality Detection | Medical imaging AI |
-| 2026 | N.O.V.A. | Medical AI agents |
-| 2026 | Hyundai Pleos Connect app development | Automotive software |
-| 2026 | Game development | Interactive software |
+<div align="center">
 
-## Tech Stack
+### Let's Connect
 
-| Area | Technologies |
-| :--- | :--- |
-| Programming | Python · Kotlin |
-| AI & Data | PyTorch · NumPy · Pandas |
-| Applications | Android · Android Studio · Gradle |
-| Development | Git · GitHub · AWS |
+[Email](mailto:jaehyeong.ahn.01@gmail.com) · [GitHub](https://github.com/jaehyeongahn01) · [Repositories & Activity](https://github.com/jaehyeongahn01?tab=repositories)
 
-## GitHub Activity
-
-[Explore my repositories and contribution history →](https://github.com/jaehyeongahn01?tab=repositories)
-
-## Contact
-
-[Email](mailto:jaehyeong.ahn.01@gmail.com) · [GitHub](https://github.com/jaehyeongahn01)
+</div>
