@@ -2,16 +2,12 @@
 
 ## My Contributions
 
-A verified breakdown of my individual responsibilities is being prepared. The project-level features in the profile do not imply sole authorship.
+**Solo designer and developer**
 
-<!-- Replace this note with confirmed details:
-- Role and team context:
-- Problem I worked on:
-- What I personally designed or implemented:
-- Technologies I used:
-- Validation or measurable result:
-- Evidence: commits, pull requests, experiment outputs, or demo timestamps.
-Do not attribute team-wide work to one individual without confirmation.
--->
+Independently designed and developed the game, owning the project from concept and gameplay design through implementation.
+
+- Created the game concept and designed its interactive mechanics.
+- Implemented the game end to end, including gameplay logic, player interactions, and the interface.
+- Built Stickman Sword Duel with TypeScript, Vite, and Canvas, including mouse-drawn sword attacks and character movement for dodging.
 
 [Back to profile](../README.md)
