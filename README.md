@@ -1,5 +1,7 @@
 <div align="center">
 
+**[한국어](README.ko.md) · [English](README.md)**
+
 # Hi, I'm Jaehyeong Ahn 👋
 
 **Biotechnology · Artificial Intelligence · Software Development**
@@ -97,7 +99,6 @@ A discreet emergency-assistance prototype for taxi drivers. It detects a four-pr
 | Period | Institution / Experience | Focus |
 | :--- | :--- | :--- |
 | Graduated Aug 2026 | Ghent University Global Campus | B.Sc. in Molecular Biotechnology |
-| 2024–2026 | Ghent University Global Campus | Research Assistant |
 | 2026 | Healthcare AI Training | AI & Software Development |
 
 ## Competitions & Activities
