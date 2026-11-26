@@ -145,20 +145,3 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 <img src="assets/badge-github.svg" height="36" alt="GitHub">
 </p>
 </div>
-
----
-
-## 🎓 Education & Training
-
-| Period | Institution / Experience | Focus |
-| :--- | :--- | :--- |
-| Graduated Aug 2026 | Ghent University Global Campus | B.Sc. in Molecular Biotechnology |
-| 2026 | Healthcare AI Training | AI & Software Development |
-
----
-
-<div align="center">
-
-<p>jaehyeong.ahn.01@gmail.com</p>
-
-</div>
