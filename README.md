@@ -29,6 +29,8 @@ Investigating meta-learning for faster patient-specific 3D liver reconstruction 
 
 `INR` `MAML` `SIREN` `3D Reconstruction`
 
+**My contribution:** Collaborated in a three-person team on meta-learning-based 3D liver reconstruction, sharing responsibility across the research process.
+
 [Research repository](https://github.com/shin-shuru/BSc_Project_2026) · [My Contributions](projects/liver-reconstruction.md)
 
 ### 02 · RSNA Knee Abnormality Detection
@@ -38,6 +40,8 @@ Deep learning-based knee abnormality detection using MRI data, with a focus on m
 
 `Medical Imaging` `Deep Learning` `Multi-label Classification`
 
+**My contribution:** Took primary responsibility for much of the model development and experimentation, adapting deep learning approaches for multi-label knee MRI analysis.
+
 **Source code: private repository.** [Project & My Contributions](projects/rsna-knee.md)
 
 ### 03 · N.O.V.A.
@@ -46,6 +50,8 @@ Deep learning-based knee abnormality detection using MRI data, with a focus on m
 An LLM-based medical AI agent project exploring clinical reasoning and agent development.
 
 `LLMs` `AI Agents` `Prompt Engineering`
+
+**My contribution:** Co-designed prompts with teammates for an LLM-based medical AI agent.
 
 [Project overview](https://github.com/jaehyeongahn01/nova-medical-ai) · [My Contributions](projects/nova.md)
 
@@ -58,6 +64,8 @@ A driving practice application for beginner drivers, combining vehicle-signal-ba
 
 `Kotlin` `Android` `Pleos Vehicle SDK` `Gamification`
 
+**My contribution:** Contributed to product ideation and interface design, and implemented Pleos SDK integrations for the driving-practice application.
+
 [Team repository & demo](https://github.com/ryu-zz/pleos-yeonjeossi) · [My Contributions](projects/yeonjeossi.md)
 
 ### 05 · Hyundai Pleos — Emergency
@@ -69,6 +77,8 @@ A discreet emergency-assistance prototype for taxi drivers. It detects a four-pr
 
 `Kotlin` `Android` `Input Pattern Detection` `Automotive UX`
 
+**My contribution:** Originated the core concept and handled the overall application implementation, turning the idea into a working automotive safety prototype.
+
 [Repository & demo](https://github.com/jaehyeongahn01/pleos-emergency) · [My Contributions](projects/emergency.md)
 
 ### 06 · Game Development
@@ -77,6 +87,8 @@ A discreet emergency-assistance prototype for taxi drivers. It detects a four-pr
 **Stickman Sword Duel (써는 놈 피하는 놈)** — a turn-based sword-fighting game where players draw sword attacks with the mouse and move their character to dodge.
 
 `TypeScript` `Vite` `Canvas` `Gameplay Design`
+
+**My contribution:** Independently designed and developed the game, owning the project from concept and gameplay design through implementation.
 
 [Project collection](https://github.com/jaehyeongahn01/game-development) · [My Contributions](projects/games.md)
 
