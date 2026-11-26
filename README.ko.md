@@ -46,6 +46,16 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 </td>
 </tr>
 <tr>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/xray-zip"><img src="https://raw.githubusercontent.com/jaehyeongahn01/xray-zip/main/docs/images/home.png" width="180" alt="XRAY ZIP home screen"></a></td>
+<td valign="top">
+<h3>XRAY ZIP</h3>
+<p><sub>의료 영상 AI · 웹 플랫폼 · 2026</sub></p>
+<p>흉부 X선 3분류와 Grad-CAM 시각화를 판독 교육 게임으로 연결한 플랫폼입니다. React·FastAPI로 구현했으며, 학습 및 CPU 배포에 AWS를 활용했습니다.</p>
+<p><sub>ResNet18 · Grad-CAM · React · FastAPI · AWS</sub></p>
+<p><a href="https://github.com/jaehyeongahn01/xray-zip">저장소 및 시연</a></p>
+</td>
+</tr>
+<tr>
 <td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/nova-medical-ai"><img src="assets/nova.svg" width="180" alt="N.O.V.A. illustration"></a></td>
 <td valign="top">
 <h3>N.O.V.A.</h3>
@@ -87,7 +97,7 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 </tr>
 </table>
 
-<sub>앞의 세 썸네일은 분야를 나타내는 일러스트이며, 나머지는 실제 프로젝트 화면입니다.</sub>
+<sub>간 재구성·RSNA·N.O.V.A. 썸네일은 분야별 일러스트이며, 나머지는 실제 프로젝트 화면입니다.</sub>
 
 ---
 
