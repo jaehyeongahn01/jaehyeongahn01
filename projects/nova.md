@@ -1,3 +1,5 @@
+[한국어](nova.ko.md) · [English](nova.md)
+
 # N.O.V.A.
 
 ## My Contributions
