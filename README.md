@@ -63,7 +63,7 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 <p>An LLM-based simulated doctor agent for Korean clinical interactions and SOAP records. Includes guideline retrieval tools; RAG integration is not active in v32.</p>
 <p><sub>LLMs · AI Agents · Prompt Engineering</sub></p>
 <p><a href="https://github.com/jaehyeongahn01/nova">Repository</a></p>
-<p><sub>Final results and evaluations will be updated once announced.</sub></p>
+<p><b>Final result: Top 25%</b></p>
 </td>
 </tr>
 <tr>
