@@ -145,20 +145,3 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 <img src="assets/badge-github.svg" height="36" alt="GitHub">
 </p>
 </div>
-
----
-
-## 🎓 학력 및 교육
-
-| 기간 | 기관 / 교육 | 내용 |
-| :--- | :--- | :--- |
-| 2026.08 졸업 | Ghent University Global Campus | 분자생명공학 학사 |
-| 2026 | Healthcare AI Training | AI 및 소프트웨어 개발 교육 |
-
----
-
-<div align="center">
-
-<p>jaehyeong.ahn.01@gmail.com</p>
-
-</div>
