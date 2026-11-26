@@ -63,7 +63,7 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 <p>한국어 문진·신체 진찰과 SOAP 기록 작성을 수행하는 LLM 기반 모의 진료 에이전트입니다. 진료지침 검색 도구도 포함하며, 현재 v32의 RAG 통합은 미완료 상태입니다.</p>
 <p><sub>LLMs · AI Agents · Prompt Engineering</sub></p>
 <p><a href="https://github.com/jaehyeongahn01/nova">저장소</a></p>
-<p><sub>최종 성적·평가 결과는 발표 후 업데이트 예정입니다.</sub></p>
+<p><b>최종 결과: 상위 25%</b></p>
 </td>
 </tr>
 <tr>
