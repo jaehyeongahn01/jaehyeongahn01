@@ -32,19 +32,17 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 <p><sub>학사 졸업 연구 · 2026</sub></p>
 <p>암시적 신경 표현과 메타러닝을 활용한 환자별 3D 간 재구성 연구입니다.</p>
 <p><sub>INR · MAML · SIREN · 3D Reconstruction</sub></p>
-<p><b>나의 기여:</b> 3인 팀의 일원으로 연구 전반에 공동 참여했으며, 구현·실험·결과 해석을 팀원들과 함께 진행했습니다.</p>
-<p><a href="https://github.com/shin-shuru/BSc_Project_2026">저장소</a> · <a href="projects/liver-reconstruction.ko.md">나의 기여</a></p>
+<p><a href="https://github.com/shin-shuru/BSc_Project_2026">저장소</a></p>
 </td>
 </tr>
 <tr>
-<td width="190" align="center" valign="middle"><a href="projects/rsna-knee.ko.md"><img src="assets/rsna.svg" width="180" alt="RSNA Knee Abnormality Detection illustration"></a></td>
+<td width="190" align="center" valign="middle"><img src="assets/rsna.svg" width="180" alt="RSNA Knee Abnormality Detection illustration"></td>
 <td valign="top">
 <h3>RSNA Knee Abnormality Detection</h3>
 <p><sub>의료 영상 AI · Kaggle 대회 · 2026</sub></p>
 <p>딥러닝 모델 개발과 실험을 통해 무릎 MRI의 여러 이상 소견을 분석하는 프로젝트입니다.</p>
 <p><sub>Medical Imaging · Deep Learning · Multi-label Classification</sub></p>
-<p><b>나의 기여:</b> 모델 개발과 실험의 상당 부분을 담당했습니다. 기존 모델과 공개 베이스라인을 활용·개선하며 무릎 MRI 분석에 맞는 학습 및 추론 방법을 탐구했습니다.</p>
-<p>비공개 코드 · <a href="projects/rsna-knee.ko.md">나의 기여</a></p>
+<p>비공개 코드</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +52,7 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 <p><sub>의료 AI 에이전트 · 2026</sub></p>
 <p>LLM 기반으로 임상 추론을 탐구하는 의료 AI 에이전트 프로젝트입니다.</p>
 <p><sub>LLMs · AI Agents · Prompt Engineering</sub></p>
-<p><b>나의 기여:</b> 팀원들과 함께 의료 AI 에이전트의 프롬프트를 설계하고 개선했습니다.</p>
-<p><a href="https://github.com/jaehyeongahn01/nova-medical-ai">저장소</a> · <a href="projects/nova.ko.md">나의 기여</a></p>
+<p><a href="https://github.com/jaehyeongahn01/nova-medical-ai">저장소</a></p>
 </td>
 </tr>
 <tr>
@@ -65,8 +62,7 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 <p><sub>차량용 애플리케이션 · 2026</sub></p>
 <p>차량 신호 기반 퀘스트와 학습 기록을 결합한 초보운전자용 운전 연수 앱입니다.</p>
 <p><sub>Kotlin · Android · Pleos Vehicle SDK · Gamification</sub></p>
-<p><b>나의 기여:</b> 앱 아이디어 구상과 UI/UX 디자인에 참여하고, Pleos SDK 연동을 구현했습니다.</p>
-<p><a href="https://github.com/ryu-zz/pleos-yeonjeossi">저장소</a> · <a href="projects/yeonjeossi.ko.md">나의 기여</a></p>
+<p><a href="https://github.com/ryu-zz/pleos-yeonjeossi">저장소</a></p>
 </td>
 </tr>
 <tr>
@@ -76,19 +72,17 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 <p><sub>차량 안전 프로토타입 · 2026</sub></p>
 <p>택시 기사를 위한 은밀한 긴급 입력 감지 프로토타입입니다. 실제 메시지 발송과 실차 검증은 진행 전입니다.</p>
 <p><sub>Kotlin · Android · Input Pattern Detection · Automotive UX</sub></p>
-<p><b>나의 기여:</b> 핵심 아이디어를 제안하고 앱 전반의 코딩을 담당해, 아이디어를 동작하는 프로토타입으로 구현했습니다.</p>
-<p><a href="https://github.com/jaehyeongahn01/pleos-emergency">저장소</a> · <a href="projects/emergency.ko.md">나의 기여</a></p>
+<p><a href="https://github.com/jaehyeongahn01/pleos-emergency">저장소</a></p>
 </td>
 </tr>
 <tr>
-<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/game-development"><img src="https://raw.githubusercontent.com/jaehyeongahn01/game-development/main/stickman-sword-duel/thumbnail.png" width="180" alt="Game Development screenshot"></a></td>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/game-development"><img src="assets/stickman-sword-duel.png" width="180" alt="Game Development screenshot"></a></td>
 <td valign="top">
 <h3>Game Development</h3>
 <p><sub>인터랙티브 소프트웨어 · 2026</sub></p>
 <p>써는 놈 피하는 놈 — 마우스로 검격을 그리고 캐릭터를 움직여 회피하는 턴제 검술 게임입니다.</p>
 <p><sub>TypeScript · Vite · Canvas · Gameplay Design</sub></p>
-<p><b>나의 기여:</b> 아이디어 구상부터 게임 규칙 설계, 인터페이스와 게임 로직 구현까지 전 과정을 단독으로 진행했습니다.</p>
-<p><a href="https://github.com/jaehyeongahn01/game-development">저장소</a> · <a href="projects/games.ko.md">나의 기여</a></p>
+<p><a href="https://github.com/jaehyeongahn01/game-development">저장소</a></p>
 </td>
 </tr>
 </table>
@@ -165,8 +159,6 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 
 <div align="center">
 
-### 함께 이야기해요
-
-[Email](mailto:jaehyeong.ahn.01@gmail.com) · [GitHub](https://github.com/jaehyeongahn01) · [저장소 및 활동](https://github.com/jaehyeongahn01?tab=repositories)
+<p>jaehyeong.ahn.01@gmail.com</p>
 
 </div>
