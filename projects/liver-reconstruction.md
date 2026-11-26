@@ -2,16 +2,12 @@
 
 ## My Contributions
 
-A verified breakdown of my individual responsibilities is being prepared. The project-level features in the profile do not imply sole authorship.
+**Collaborative researcher · Three-person team**
 
-<!-- Replace this note with confirmed details:
-- Role and team context:
-- Problem I worked on:
-- What I personally designed or implemented:
-- Technologies I used:
-- Validation or measurable result:
-- Evidence: commits, pull requests, experiment outputs, or demo timestamps.
-Do not attribute team-wide work to one individual without confirmation.
--->
+Collaborated in a three-person team on meta-learning-based 3D liver reconstruction, sharing responsibility across the research process.
+
+- Worked jointly with two teammates throughout the bachelor's research project, from developing the study to discussing its findings.
+- Contributed to the team's investigation of implicit neural representations and MAML-based initialization for patient-specific liver reconstruction.
+- The implementation, experiments, and research outcomes were collaborative efforts with shared ownership.
 
 [Back to profile](../README.md)
