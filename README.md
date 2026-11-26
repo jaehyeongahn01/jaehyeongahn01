@@ -32,19 +32,17 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 <p><sub>Bachelor&#x27;s research · 2026</sub></p>
 <p>Meta-learning for patient-specific 3D liver reconstruction with implicit neural representations.</p>
 <p><sub>INR · MAML · SIREN · 3D Reconstruction</sub></p>
-<p><b>My contribution:</b> Collaborated in a three-person team on meta-learning-based 3D liver reconstruction, sharing responsibility across the research process.</p>
-<p><a href="https://github.com/shin-shuru/BSc_Project_2026">Repository</a> · <a href="projects/liver-reconstruction.md">My Contributions</a></p>
+<p><a href="https://github.com/shin-shuru/BSc_Project_2026">Repository</a></p>
 </td>
 </tr>
 <tr>
-<td width="190" align="center" valign="middle"><a href="projects/rsna-knee.md"><img src="assets/rsna.svg" width="180" alt="RSNA Knee Abnormality Detection illustration"></a></td>
+<td width="190" align="center" valign="middle"><img src="assets/rsna.svg" width="180" alt="RSNA Knee Abnormality Detection illustration"></td>
 <td valign="top">
 <h3>RSNA Knee Abnormality Detection</h3>
 <p><sub>Medical imaging · Kaggle competition · 2026</sub></p>
 <p>Multi-label knee MRI analysis through deep learning model development and experimentation.</p>
 <p><sub>Medical Imaging · Deep Learning · Multi-label Classification</sub></p>
-<p><b>My contribution:</b> Took primary responsibility for much of the model development and experimentation, adapting deep learning approaches for multi-label knee MRI analysis.</p>
-<p>Private source · <a href="projects/rsna-knee.md">My Contributions</a></p>
+<p>Private source</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +52,7 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 <p><sub>Medical AI agent · 2026</sub></p>
 <p>An LLM-based medical AI agent exploring clinical reasoning.</p>
 <p><sub>LLMs · AI Agents · Prompt Engineering</sub></p>
-<p><b>My contribution:</b> Co-designed prompts with teammates for an LLM-based medical AI agent.</p>
-<p><a href="https://github.com/jaehyeongahn01/nova-medical-ai">Repository</a> · <a href="projects/nova.md">My Contributions</a></p>
+<p><a href="https://github.com/jaehyeongahn01/nova-medical-ai">Repository</a></p>
 </td>
 </tr>
 <tr>
@@ -65,8 +62,7 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 <p><sub>Automotive application · 2026</sub></p>
 <p>A beginner-driver coaching app with vehicle-signal quests and progress tracking.</p>
 <p><sub>Kotlin · Android · Pleos Vehicle SDK · Gamification</sub></p>
-<p><b>My contribution:</b> Contributed to product ideation and interface design, and implemented Pleos SDK integrations for the driving-practice application.</p>
-<p><a href="https://github.com/ryu-zz/pleos-yeonjeossi">Repository</a> · <a href="projects/yeonjeossi.md">My Contributions</a></p>
+<p><a href="https://github.com/ryu-zz/pleos-yeonjeossi">Repository</a></p>
 </td>
 </tr>
 <tr>
@@ -76,19 +72,17 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 <p><sub>Automotive safety prototype · 2026</sub></p>
 <p>A discreet emergency-input prototype for taxi drivers. Message delivery and live-vehicle validation remain pending.</p>
 <p><sub>Kotlin · Android · Input Pattern Detection · Automotive UX</sub></p>
-<p><b>My contribution:</b> Originated the core concept and handled the overall application implementation, turning the idea into a working automotive safety prototype.</p>
-<p><a href="https://github.com/jaehyeongahn01/pleos-emergency">Repository</a> · <a href="projects/emergency.md">My Contributions</a></p>
+<p><a href="https://github.com/jaehyeongahn01/pleos-emergency">Repository</a></p>
 </td>
 </tr>
 <tr>
-<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/game-development"><img src="https://raw.githubusercontent.com/jaehyeongahn01/game-development/main/stickman-sword-duel/thumbnail.png" width="180" alt="Game Development screenshot"></a></td>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/game-development"><img src="assets/stickman-sword-duel.png" width="180" alt="Game Development screenshot"></a></td>
 <td valign="top">
 <h3>Game Development</h3>
 <p><sub>Interactive software · 2026</sub></p>
 <p>Stickman Sword Duel — draw sword attacks and move your character to dodge in a turn-based game.</p>
 <p><sub>TypeScript · Vite · Canvas · Gameplay Design</sub></p>
-<p><b>My contribution:</b> Independently designed and developed the game, owning the project from concept and gameplay design through implementation.</p>
-<p><a href="https://github.com/jaehyeongahn01/game-development">Repository</a> · <a href="projects/games.md">My Contributions</a></p>
+<p><a href="https://github.com/jaehyeongahn01/game-development">Repository</a></p>
 </td>
 </tr>
 </table>
@@ -165,8 +159,6 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 
 <div align="center">
 
-### Let's Connect
-
-[Email](mailto:jaehyeong.ahn.01@gmail.com) · [GitHub](https://github.com/jaehyeongahn01) · [Repositories & Activity](https://github.com/jaehyeongahn01?tab=repositories)
+<p>jaehyeong.ahn.01@gmail.com</p>
 
 </div>
