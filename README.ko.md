@@ -56,13 +56,14 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 </td>
 </tr>
 <tr>
-<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/nova-medical-ai"><img src="assets/nova.svg" width="180" alt="N.O.V.A. illustration"></a></td>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/nova"><img src="assets/nova.svg" width="180" alt="N.O.V.A. illustration"></a></td>
 <td valign="top">
 <h3>N.O.V.A.</h3>
 <p><sub>의료 AI 에이전트 · 2026</sub></p>
-<p>LLM 기반으로 임상 추론을 탐구하는 의료 AI 에이전트 프로젝트입니다.</p>
+<p>한국어 문진·신체 진찰과 SOAP 기록 작성을 수행하는 LLM 기반 모의 진료 에이전트입니다. 진료지침 검색 도구도 포함하며, 현재 v32의 RAG 통합은 미완료 상태입니다.</p>
 <p><sub>LLMs · AI Agents · Prompt Engineering</sub></p>
-<p><a href="https://github.com/jaehyeongahn01/nova-medical-ai">저장소</a></p>
+<p><a href="https://github.com/jaehyeongahn01/nova">저장소</a></p>
+<p><sub>최종 성적·평가 결과는 발표 후 업데이트 예정입니다.</sub></p>
 </td>
 </tr>
 <tr>
@@ -92,7 +93,8 @@ Ghent University에서 분자생명공학을 전공했으며, 의료 AI, 3D 재�
 <p><sub>인터랙티브 소프트웨어 · 2026</sub></p>
 <p>써는 놈 피하는 놈 — 마우스로 검격을 그리고 캐릭터를 움직여 회피하는 턴제 검술 게임입니다.</p>
 <p><sub>TypeScript · Vite · Canvas · Gameplay Design</sub></p>
-<p><a href="https://github.com/jaehyeongahn01/game-development">저장소</a></p>
+<p><a href="https://game.saaskr.com/games/%EC%8D%A8%EB%8A%94-%EB%86%88-%ED%94%BC%ED%95%98%EB%8A%94-%EB%86%88">▶ 바로 플레이</a> · <a href="https://github.com/jaehyeongahn01/game-development">저장소</a></p>
+<p><sub>최종 성적·평가 결과는 발표 후 업데이트 예정입니다.</sub></p>
 </td>
 </tr>
 </table>
