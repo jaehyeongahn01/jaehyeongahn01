@@ -2,16 +2,12 @@
 
 ## My Contributions
 
-A verified breakdown of my individual responsibilities is being prepared. The project-level features in the profile do not imply sole authorship.
+**SDK integration · UI/UX design · Product ideation**
 
-<!-- Replace this note with confirmed details:
-- Role and team context:
-- Problem I worked on:
-- What I personally designed or implemented:
-- Technologies I used:
-- Validation or measurable result:
-- Evidence: commits, pull requests, experiment outputs, or demo timestamps.
-Do not attribute team-wide work to one individual without confirmation.
--->
+Contributed to product ideation and interface design, and implemented Pleos SDK integrations for the driving-practice application.
+
+- Helped shape the application concept and learning experience for beginner drivers.
+- Worked on UI/UX design for the in-vehicle application.
+- Implemented SDK integrations to connect application features with the Pleos platform.
 
 [Back to profile](../README.md)
