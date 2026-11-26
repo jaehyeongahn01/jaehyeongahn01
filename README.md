@@ -46,6 +46,16 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 </td>
 </tr>
 <tr>
+<td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/xray-zip"><img src="https://raw.githubusercontent.com/jaehyeongahn01/xray-zip/main/docs/images/home.png" width="180" alt="XRAY ZIP home screen"></a></td>
+<td valign="top">
+<h3>XRAY ZIP</h3>
+<p><sub>Medical imaging AI · Web platform · 2026</sub></p>
+<p>A chest X-ray classification and learning platform combining ResNet18 predictions, Grad-CAM visualizations, and an interactive reading challenge. Built with React and FastAPI, with AWS used for training and CPU deployment.</p>
+<p><sub>ResNet18 · Grad-CAM · React · FastAPI · AWS</sub></p>
+<p><a href="https://github.com/jaehyeongahn01/xray-zip">Repository & demos</a></p>
+</td>
+</tr>
+<tr>
 <td width="190" align="center" valign="middle"><a href="https://github.com/jaehyeongahn01/nova-medical-ai"><img src="assets/nova.svg" width="180" alt="N.O.V.A. illustration"></a></td>
 <td valign="top">
 <h3>N.O.V.A.</h3>
@@ -87,7 +97,7 @@ I am a Molecular Biotechnology graduate from Ghent University, with experience i
 </tr>
 </table>
 
-<sub>The first three thumbnails are topic illustrations; the remaining images show actual projects.</sub>
+<sub>The liver reconstruction, RSNA, and N.O.V.A. thumbnails are topic illustrations; the remaining images show actual projects.</sub>
 
 ---
 
