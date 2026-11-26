@@ -2,16 +2,12 @@
 
 ## My Contributions
 
-A verified breakdown of my individual responsibilities is being prepared. The project-level features in the profile do not imply sole authorship.
+**Original concept · Primary application developer**
 
-<!-- Replace this note with confirmed details:
-- Role and team context:
-- Problem I worked on:
-- What I personally designed or implemented:
-- Technologies I used:
-- Validation or measurable result:
-- Evidence: commits, pull requests, experiment outputs, or demo timestamps.
-Do not attribute team-wide work to one individual without confirmation.
--->
+Originated the core concept and handled the overall application implementation, turning the idea into a working automotive safety prototype.
+
+- Proposed the core idea of discreetly triggering emergency assistance through steering-wheel button input.
+- Handled the overall Kotlin/Android implementation, including input-pattern detection, the subtle status indicator, and report-message configuration and generation.
+- Translated the concept into a prototype with emulator-tested detection. Actual message delivery and live-vehicle validation remain pending.
 
 [Back to profile](../README.md)
